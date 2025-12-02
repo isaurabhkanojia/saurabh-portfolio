@@ -30,6 +30,7 @@ import kafkaLogo from './assets/tech_logo/apachekafka.png';
 import gitLogo from './assets/tech_logo/git.png';
 import githubLogo from './assets/tech_logo/github.png';
 import gitLabLogo from './assets/tech_logo/gitlab.png';
+import cloudflareLogo from './assets/tech_logo/cloudflare.png';
 import vscodeLogo from './assets/tech_logo/vscode.png';
 import postmanLogo from './assets/tech_logo/postman.png';
 import mcLogo from './assets/tech_logo/mc.png';
@@ -97,6 +98,7 @@ export const SkillsInfo = [
       { name: 'GitHub', logo: githubLogo },
       { name: 'GitLab', logo: gitLabLogo },
       { name: 'Kafka', logo: kafkaLogo },
+      { name: 'Cloudflare', logo: cloudflareLogo },
       { name: 'VS Code', logo: vscodeLogo },
       { name: 'Postman', logo: postmanLogo },
       { name: 'Compass', logo: mcLogo },
