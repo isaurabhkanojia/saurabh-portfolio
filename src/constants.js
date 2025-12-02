@@ -164,7 +164,7 @@ export const SkillsInfo = [
     {
       id: 2,
       img: tcsLogo,
-      role: "Softwrare Developer",
+      role: "Software Developer",
       company: "Tata Consultancy Services",
       date: "August 2017 - April 2019",
       desc: [
@@ -198,7 +198,7 @@ export const SkillsInfo = [
         "Gained practical insights into software development through hands-on coding, labs, and technical coursework.",
         "Worked on academic projects that applied theoretical concepts to real-world problem-solving scenarios.",
         "Developed a strong foundation in computing principles, programming, and software engineering practices."],
-      degree: "Bachelor of Science - BSC (Computer Science)",
+      degree: "Bachelor of Technology - B.Tech (Computer Science & Engineering)",
     },
     {
       id: 1,
