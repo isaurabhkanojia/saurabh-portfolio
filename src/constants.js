@@ -118,6 +118,7 @@ export const SkillsInfo = [
       company: "Capgemini Engineering",
       date: "November 2021 - Present",
       desc: [
+            "Domain: Networking (Siae Microelettronica)",
             "Migrated legacy Java JAR projects to Spring Boot, improving scalability and enabling smooth cloud deployment.",
             "Integrated Kafka for efficient inter-service communication, enhancing reliability and performance.",
             "Developed the Device Security Manager to manage equipment groups, users, and services.",
@@ -145,6 +146,7 @@ export const SkillsInfo = [
       company: "Dassault Systèmes",
       date: "April 2019 - November 2021",
       desc: [
+        "Domain: Product Based (ENOVIA)",
         "Developed versatile UI components for ENOVIA applications, supporting both onpremise and cloud deployments.", 
         "Implemented comprehensive unit tests using JUnit, Karma, Jasmine, and Cheetah to ensure code quality and reliability.", 
         "Designed JMeter scripts to validate performance and scalability of document management features. Built dynamic rendition templates to generate structured cover pages (Body, Appendix) for controlled document workflows.",
@@ -170,6 +172,7 @@ export const SkillsInfo = [
       company: "Tata Consultancy Services",
       date: "August 2017 - April 2019",
       desc: [
+        "Domain: Banking (Morgan Stanley)",
         "Developed and maintained core banking modules for loan management systems.",
         "Implemented generic Metawriters, Metareaders, and Queue mechanisms to improve performance and reliability.",
         "Created automation scripts in Python for error detection and process optimization.",
